@@ -38,11 +38,7 @@ Besides programming, I like to play games, read, watch anime, and build electron
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swishhyy&theme=default)](https://github.com/Swishhyy)
 
 ### Repositories by Language
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swishhyy&theme=default)](https://github.com/Swishhyy)
-
-### Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swishhyy&custom_title=My%20Contributions&theme=github)
-
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swishhyy&theme=default)](https://github.com/Swishhyy) 
 ---
 
 ## Visitor Count
