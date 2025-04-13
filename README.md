@@ -28,8 +28,13 @@ Besides programming, I like to play games, read, watch anime, and build electron
 
 ### Featured Projects:
 - **[SCI](https://github.com/Swishhyy/SCI)**:  
-  A SCP:SL plugin to add custom items to the game. This is being developed for my own server NNR.
-
+  An SCP: SL plugin to add custom items to the game. This is being developed for my server, NNR.
+- **[SCR](https://github.com/Swishhyy/SCR)**:  
+  An SCP: SL plugin to add custom roles & abilities to the game. This is being developed for my server NNR.
+- **[SCE](https://github.com/Swishhyy/SCE)**:  
+  An SCP: SL plugin to add custom events to the game. This is being developed for my server, NNR.
+- **[SwishhyysCompletePackage](https://github.com/Swishhyy/SwishhyysCompletePackage)**:  
+   A package of all three of my SCP plugins, SCI, SCR, and SCE. This just makes it easier for users to install and test them while operating with each other.
 ---
 
 ## GitHub Stats
