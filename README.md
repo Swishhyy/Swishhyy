@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a Computer Science student  
-I program whenever I have time, or when my ADHD kicks in and I binge-update another project for 2 weeks then forget about it.  
+I program whenever I have time or when my ADHD kicks in, and I binge-update another project for 2 weeks, then forget about it.  
 Besides programming, I like to play games, read, watch anime, and build electronics.
 
 ---
